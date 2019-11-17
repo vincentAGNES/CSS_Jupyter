@@ -5,7 +5,10 @@ h1{
 
 }
 
-
+.someClass {
+    color:red;
+    font-family:"times new roman", times, serif;
+           }
 
 
 
