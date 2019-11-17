@@ -1,0 +1,38 @@
+h1{
+
+ font-family:"times new roman", times, serif;
+ background-color: red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*///////////////////// IMAGE \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/*/
+.photo{
+    text-align: center;
+}
+.photo img{
+    width: 150px;
+    height: 150px;
+    border: 3px solid #fff;
+    box-shadow: 0px 0px 10px #777;
+    border-radius: 50%;
+    margin-top: -80px;
+}
