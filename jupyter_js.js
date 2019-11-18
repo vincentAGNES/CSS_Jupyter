@@ -2,3 +2,5 @@
      cell.Cell.options_default.cm_config.keyMap = 'sublime';
  });
 
+ alert("hello world from custom.js")
+
