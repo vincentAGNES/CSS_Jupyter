@@ -1,3 +1,6 @@
+// Code from this interesting website:
+// https://www.perfectlyrandom.org/2016/03/19/sublime-text-style-multiple-cursors-in-jupyter-notebook/
+
 require(["codemirror/keymap/sublime", "notebook/js/cell", "base/js/namespace"],function(sublime_keymap, cell, IPython) {
 // setTimeout(function(){ // uncomment line to fake race-condition
 cell.Cell.options_default.cm_config.keyMap = 'sublime';
@@ -10,5 +13,5 @@ cells[c].code_mirror.setOption('keyMap', 'sublime');
 }
 );
 
- alert("hello world from custom.js 2222")
+ alert("You should be able to use Ctrl + d like in Sublime text")
 
