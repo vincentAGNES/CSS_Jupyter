@@ -13,5 +13,5 @@ cells[c].code_mirror.setOption('keyMap', 'sublime');
 }
 );
 
- alert("You should be able to use Ctrl + d like in Sublime text")
+// alert("You should be able to use Ctrl + d like in Sublime text")
 
