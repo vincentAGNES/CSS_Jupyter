@@ -6,10 +6,12 @@ Just copy paste the following line in your first cell for example to load my pyt
 
 <p align="center"> %load https://raw.githubusercontent.com/vincentAGNES/Jupyter-notebook/master/jupyter_js.py </p>
 
-
-<p> Then I always need to import the 3 basic libraries: Numpy, matplotlib and pandas. 
+<p> This is useful if you're working temporary on a new machine. If you use the same machine, it would be smart to put
+  my js code into a custom.js file in the root directory of jupyter notebook </p>
+<hr>  
+<p> Then I always need to import some basic libraries 
 Just run two times the following in the first cell of your notebook for example </p> 
 
 <p align="center"> %load https://raw.githubusercontent.com/vincentAGNES/Jupyter-notebook/master/jupyter_import.py </p>
-
+<hr>
 <p> Then, I also appreciate to use my own styling for my notebooks </p>
