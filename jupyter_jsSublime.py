@@ -5,6 +5,6 @@ jsfile = urlopen('https://raw.githubusercontent.com/vincentAGNES/Jupyter-noteboo
 jscontent = jsfile.read().decode('utf-8')
 jsfile.close()
 Javascript(jscontent)
-del jsfile, jscontent
+del jsfile
 
 # DON'T FORGET TO REMOVE ME WHEN DEV IS DONE :)
