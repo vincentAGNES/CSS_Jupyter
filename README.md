@@ -4,7 +4,7 @@
 <p> First of all, I always import and run javascript file allowing to use ctrl+d just like in Sublime Text.
 Just copy paste the following line in your first cell for example to load my python code and then run it.</p>  
 
-<p align="center"> %load https://raw.githubusercontent.com/vincentAGNES/Jupyter-notebook/master/jupyter_js.py </p>
+<p align="center"> %load https://raw.githubusercontent.com/vincentAGNES/Jupyter-notebook/master/jupyter_jsSublime.py </p>
 
 <p> This is useful if you're working temporary on a new machine. If you use the same machine, it would be smart to put
   my js code into a custom.js file in the root directory of jupyter notebook </p>
