@@ -2,7 +2,7 @@
 
 <h5> The jupyter notebook in this repo is my "base" for small data science project. The following is for using only some part of my code: if you're just interested in the ctrl+d or the css ... </h5>
 <br>
-
+<p> You can just download the notebook, that's enough.</p>
 <br>
 <p> First of all, I always import and run javascript file allowing to use ctrl+d just like in Sublime Text.
 Just copy paste the following line in your first cell for example to load my python code and then run it.</p>  
