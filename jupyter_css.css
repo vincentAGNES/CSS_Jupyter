@@ -26,3 +26,7 @@ div.titlepage  {
 div.titlepart {
     font-size: 150%;
 }              
+
+div.cell:hover{
+    outline: 2px solid black;
+}
