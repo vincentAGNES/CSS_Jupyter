@@ -1,8 +1,8 @@
 <h1 align="center"> My shortpaths for Jupyter </h1>
 
-<h4> This repository is just about a few things that I do in almost every notebook I work on </h4>
+<h5> The jupyter notebook in this repo is my "base" for small data science project. The following is for using only some part of my code: if you're just interested in the ctrl+d or the css ... </h5>
 <br>
-<p> The jupyter notebook is, for me, a good start for a small data science project.</p>
+
 <br>
 <p> First of all, I always import and run javascript file allowing to use ctrl+d just like in Sublime Text.
 Just copy paste the following line in your first cell for example to load my python code and then run it.</p>  
