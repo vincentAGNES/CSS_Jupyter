@@ -1,4 +1,28 @@
-.someClass2 {
-    color:red;
-    font-family:"times new roman", times, serif;
-           }
+div.alert {
+    font-family:"times new roman", times, serif;    
+} 
+
+div.alert-custom1{
+    background-color: #f9d09d;
+}
+div.alert-custom2{
+    background-color: #dafba1; 
+}
+div.alert-custom3{
+    background-color: #d6a1fb; 
+}
+div.alert:hover {
+    opacity:80%
+}
+
+div.titlepage  {
+    font-size: 200%;
+    #font-family: Helvetica;
+    font-weight: Bold;
+    color: #444444;
+    text-align: center
+}
+
+div.titlepart {
+    font-size: 150%;
+}              
