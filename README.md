@@ -1,6 +1,10 @@
 <h1 align="center"> My shortpaths for Jupyter </h1>
 
-<h5> The jupyter notebook in this repo is my "base" for small data science project. The following is for using only some part of my code: if you're just interested in the ctrl+d or the css ... </h5>
+<h5> The jupyter notebook in this repo is my "base" for small data science project. You can download it using a terminal</h5>
+<p align="center"> wget https://raw.githubusercontent.com/vincentAGNES/Jupyter-notebook-shortpaths/master/Base.ipynb </p>
+<p align="center"> You can also go to the raw code and then Save as...</p>
+
+<h5>The following is for using only some part of my code: if you're just interested in the ctrl+d or the css ... </h5>
 <br>
 <p> You can just download the notebook, that's enough.</p>
 <br>
