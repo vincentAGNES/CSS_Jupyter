@@ -6,4 +6,6 @@ cssfile = urlopen('https://raw.githubusercontent.com/vincentAGNES/CSS_Jupyter/ma
 csscontent = cssfile.read().decode('utf-8')
 cssfile.close()
 css_code = '<style>'+'\n'+'{}</style>'.format(csscontent)
-HTML(css_code)
+
+# Remove everything but the following line.
+HTML(css_code) # Styling the notebook
