@@ -4,10 +4,10 @@
 <p align="center"> wget https://raw.githubusercontent.com/vincentAGNES/Jupyter-notebook-shortpaths/master/Base.ipynb </p>
 <p align="center"> You can also go to the raw code and then Save as...</p>
 <hr>
-<h5>The following is for using only some part of my code: if you're just interested in the ctrl+d or the css ... </h5>
+<h5>The following aims at using only some part of my code: if you're just interested in the ctrl+d or the css ... </h5>
 <br>
 
-<p> First of all, I always import and run javascript file allowing to use ctrl+d just like in Sublime Text.
+<p> First of all, I often import and run javascript file allowing to use ctrl+d just like in Sublime Text.
 Just copy paste the following line (in your first cell for example) to load my python code and then run it.</p>  
 
 <p align="center"> %load https://raw.githubusercontent.com/vincentAGNES/Jupyter-notebook/master/jupyter_jsSublime.py </p>
